@@ -162,7 +162,7 @@ Host = "0.0.0.0"
 Port = 9091
 Enabled = true
 ProfilingHost = "0.0.0.0"
-ProfilingPort = 6060
+ProfilingPort = 6061
 ProfilingEnabled = true
 
 [EventLog]
