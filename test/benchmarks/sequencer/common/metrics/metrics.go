@@ -18,7 +18,7 @@ import (
 
 const (
 	oneHundred    = 100
-	profilingPort = 6060
+	profilingPort = 6061
 )
 
 // CalculateAndPrint calculates and prints the results
